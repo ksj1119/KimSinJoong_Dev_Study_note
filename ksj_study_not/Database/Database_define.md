@@ -10,7 +10,7 @@
 
 ## DB의 용도 
 
-<img src="../images/DB/DB.jpg" alt="DataBase" />
+<img src="../images/Database/DB.jpg" alt="DataBase" />
 
 > DB는 여러 사람에 의해 공유되어 사용될 목적으로 통합하여 관리되는 데이터의 집합을 말한다.
 
@@ -20,7 +20,7 @@
 
 ## DB 보안의 3요소
 
-<img src="../images/DB/Database_3elements.png" alt="DB 3요소" />
+<img src="../images/Database/Database_3elements.png" alt="DB 3요소" />
 
 **첫 번째** 무결성(integrity).
 
