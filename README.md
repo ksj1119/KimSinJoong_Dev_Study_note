@@ -6,10 +6,14 @@
 
 ## 목차
 
-1. [**Web**](#Web)
-2. [**DB** ](#DB)
+1. [**Intro**](#Intro)
+2. [**Web**](#Web)
+3. [**DB** ](#DB)
 
 <br />
+
+# Intro
+- [자기소개](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/intro/introduce.md)
 
 ## Web
 
@@ -18,4 +22,5 @@
 <br />
 
 ## DB
-- [Database의 개념 ](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/Database_define.md)
+- [Database의 개념 ]((https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/Database_define.md))
+- [Database의 종류 ]((https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/Database_type.md))
