@@ -4,7 +4,7 @@
 ## 나는 누구인가
 
 > 이름 : 김신중
- 생년월일 : 2002년 11월 19일            <img src="../images/int/me.png" alt="Me" /> ~~임시사진~~
+ 생년월일 : 2002년 11월 19일            <img src="../images/Int/me.png" alt="Me" /> ~~임시사진~~
  학교 : 서일대학교 소프트웨어공학과 졸업 
  이메일 : skan39621@gmail.com
 
