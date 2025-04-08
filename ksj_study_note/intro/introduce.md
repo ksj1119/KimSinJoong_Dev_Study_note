@@ -32,11 +32,17 @@
 
 > 프로젝트명 : 스마트 알약통    
     >개발인원 : 4명     
-     개발기간 : 2024.09 ~ 2024.12
+     개발기간 : 2024.09 ~ 2024.12       
      기여 : 소프트웨어 설계, 알고리즘 구현
 
 <img src="../images/Int/algorithm.png" height="300px" />
 
 <br />
+
+## 기술 스텍
+
+**BackEnd**
+<img src="../images/Int/java.png" height="300px" /> <img src="../images/Int/spring.png" height="300px" /> 
+
 
 
