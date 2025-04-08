@@ -52,3 +52,14 @@
 <img src="../images/Int/mysql.png" height="50px" /> 
 
 > Mysql
+
+**Tools**
+
+<img src="../images/Int/eclipse.png" height="50px" /> <img src="../images/Int/vs.png" height="50px" /> 
+
+>Eclipse , VisualStudio
+
+## 자격증
+
+> 컴퓨터활용능력 2급        
+ 정보처리기능사
