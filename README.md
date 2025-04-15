@@ -24,3 +24,4 @@
 ## DB
 - [Database의 개념 ](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/Database_define.md)
 - [Database의 종류 ](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/Database_type.md)
+- [Database Management System](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/Database_Ms.md)
