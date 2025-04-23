@@ -8,7 +8,7 @@
  학교 : 서일대학교 소프트웨어공학과 3학년 재학중            
  이메일 : skan39621@gmail.com
 
-<img src="../images/Int/me.png" height="300px" /> ~~임시사진~~
+<img src="../images/Int/me.png" height="300px" />
 
 <br />
 
