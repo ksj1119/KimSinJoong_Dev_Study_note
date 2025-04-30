@@ -3,8 +3,8 @@
   <h1>김신중의 백앤드 포트폴리오 (Study Note)</h1>
   <br />
 </div>
-#
-  - [김신중](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/intro/introduce.md)
+# 
+- [김신중](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/intro/introduce.md)
 
 ## 목차
 
