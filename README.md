@@ -25,7 +25,6 @@
 - [REST API](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/REST_API.md)
 - [CORS](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/CORS.md)
 - [JWT Token](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/JWT_Token.md)
-- [OAuth2](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/OAuth2.md)
 - [Session vs Token](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/Session_vs_Token.md)
 - [Rate Limiting](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/Rate_Limiting.md)
 - [File Upload](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/File_Upload.md)
