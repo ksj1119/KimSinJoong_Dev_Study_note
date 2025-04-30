@@ -22,7 +22,6 @@
 
 ## Web
 - [HTTP가 무엇이고 왜 HTTPS를 사용하는 것인가?](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/WEB_HTTP_HTTPS.md)
-- [HTTP](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/HTTP.md)
 - [REST API](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/REST_API.md)
 - [CORS](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/CORS.md)
 - [JWT Token](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/web/JWT_Token.md)
