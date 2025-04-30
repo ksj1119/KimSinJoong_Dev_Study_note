@@ -36,7 +36,7 @@
 - [Database의 종류](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/Database_type.md)
 - [Database Management System](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/Database_Ms.md)
 - [SQL vs NoSQL](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/SQL_vs_NoSQL.md)
-- [ORM 개념](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/database/ORM_Concept.md)
+- [ORM 개념](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Database/ORM_Concept.md)
 
 <br />
 
