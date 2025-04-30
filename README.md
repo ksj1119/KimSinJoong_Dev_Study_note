@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>백앤드 학습노트 (Study Note)</h1>
+  <h1>김신중의 백앤드 포트폴리오 (Study Note)</h1>
   <br />
 </div>
 
