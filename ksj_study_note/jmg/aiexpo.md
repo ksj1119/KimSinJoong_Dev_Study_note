@@ -8,3 +8,4 @@
 저는 이 행사를 관람하고 AI시대에 맞는 안목을 만들고 최신 기술 동향과 산업 흐름을 직접 체감하며 미래를 준비하는 소중한 기회로 삼았습니다.
 
 <embed src="../images/pdf/J5_김신중_202106943_함석현_AIEXPO박람회참여.pdf" type="application/pdf">
+[관람회 보고서](./images/pdf/J5_김신중_202106943_함석현_AIEXPO박람회참여.pdf)
