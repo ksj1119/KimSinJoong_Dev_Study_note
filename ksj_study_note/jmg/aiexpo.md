@@ -8,4 +8,4 @@
 저는 이 행사를 관람하고 AI시대에 맞는 안목을 만들고 최신 기술 동향과 산업 흐름을 직접 체감하며 미래를 준비하는 소중한 기회로 삼았습니다.
 
 <embed src="../images/pdf/J5_김신중_202106943_함석현_AIEXPO박람회참여.pdf" type="application/pdf">
-[관람회 보고서](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/images/pdf/J5_%EA%B9%80%EC%8B%A0%EC%A4%91_202106943_%ED%95%A8%EC%84%9D%ED%98%84_AIEXPO%EB%B0%95%EB%9E%8C%ED%9A%8C%EC%B0%B8%EC%97%AC.pdf)
+[관람회 보고서] (https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/images/pdf/J5_%EA%B9%80%EC%8B%A0%EC%A4%91_202106943_%ED%95%A8%EC%84%9D%ED%98%84_AIEXPO%EB%B0%95%EB%9E%8C%ED%9A%8C%EC%B0%B8%EC%97%AC.pdf)
