@@ -67,3 +67,4 @@
 <br />
 
 ## 재학생 맞춤형 고용서비스
+- [AIEXPO](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/jmg/aiexpo.md)
