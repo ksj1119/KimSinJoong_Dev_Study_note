@@ -68,3 +68,8 @@
 
 ## 재학생 맞춤형 고용서비스
 - [AIEXPO](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/jmg/aiexpo.md)
+- [진로특강](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/jmg/jinro.md)
+- [온라인 취업강의](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/jmg/online.md)
+- [언택트 진로,취업강의](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/jmg/untact.md)
+- [직업선호도검사 L형](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/jmg/CareerTest.md.md)
+- [IT 취 취창업을 위한 스킬셋 업그레이드](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/jmg/CapstoneDesign.md)
