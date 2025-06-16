@@ -12,6 +12,8 @@
 4. [**Backend Core**](#Backend-Core)
 5. [**Architecture**](#Architecture)
 6. [**Dev Tools**](#Dev-Tools)
+7. [**Java**](#Java)  
+8. [**Spring**](#Spring)
 
 <br />
 
@@ -158,3 +160,16 @@
 - [람다식과 함수형 인터페이스의 이해](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Java/Lambdas_and_Functional_IF.md)  
 - [Stream API 내부 동작과 최적화 전략](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Java/Stream_API_Internals.md)  
 - [멀티스레딩과 동기화](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Java/Threading_and_Synchronization.md)  
+
+
+## Spring  
+- [Spring Framework 개요와 아키텍처](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring%20Framework.md)  
+- [의존성 주입(DI)과 IoC 컨테이너](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_DI_IOC.md)  
+- [스프링 빈의 라이프사이클](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_Bean_Lifecycle.md)  
+- [AOP 개념과 스프링 구현 방식](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_AOP.md)  
+- [스프링 예외 처리와 전역 처리 전략](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_Exception_Handling.md)  
+- [Spring MVC 구조와 DispatcherServlet 흐름](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_MVC_Structure.md)  
+- [Spring Security 개념과 인증/인가 구조](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_Security_Concepts.md)  
+- [입력 검증과 Validator 전략](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_Validation.md)  
+- [Spring Boot 자동 구성 원리와 커스터마이징](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_Boot_AutoConfiguration.md)  
+- [트랜잭션 관리와 선언적 트랜잭션 설정](https://github.com/ksj1119/KimSinJoong_Dev_Study_note/blob/main/ksj_study_note/Spring/Spring_Transaction_Management.md)  
